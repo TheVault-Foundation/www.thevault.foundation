@@ -1,0 +1,58 @@
+<html lang="kr">
+<head> 
+	<title>TheVault Support</title> 
+    <meta charset="UTF-8">
+    <style type="text/css">
+    body { margin:0; }
+    /* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+    </style>
+</head>
+<body>
+<div class="container"> 
+  <form id="mailForm2" name="mailForm2" action="https://formspree.io/support@thevault.foundation" method="POST" style="font-family arial; font-size: 13px;" onsubmit="formChk2();return false">
+    <label for="fname">이름</label>
+    <input type="text" id="FNAME" name="FNAME" placeholder="이름을 입력해 주세요" onsubmit="formChk2();return false">
+    <label for="lname">이메일주소</label>
+    <input type="text" id="EMAIL" name="EMAIL" placeholder="답변을 받으실 이메일주소를 입력해 주세요" onsubmit="formChk2();return false">
+    <label for="subject">문의사항</label>
+    <textarea id="MEG" name="MEG" placeholder="볼트에 문의할 질문사항을 입력해 주세요" style="height:200px" onsubmit="formChk2();return false"></textarea>
+    <input type="submit" value="보내기">
+  </form>
+</div>
+
+<script type="text/javascript" src="assets/js/formChk.js"></script>
+
+</body>
+</html>

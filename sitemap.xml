@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.thevault.foundation/</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/index.html</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-en.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-ch.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-jp.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-kr.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-ru.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-es.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/thevault-wp-it.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/TheVault-Privacy-Policy.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thevault.foundation/TheVault-VSS-Token-Terms-and-Conditions.pdf</loc>
+  <lastmod>2018-08-12T04:22:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
